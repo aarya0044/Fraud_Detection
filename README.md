@@ -4,7 +4,6 @@
 This project focuses on building a machine learning model to proactively detect fraudulent financial transactions.  
 The objective is to identify high-risk transactions while minimizing false positives, using a real-world large-scale dataset.
 
-The project was completed as part of a screening assignment for Accredian.
 
 ---
 
@@ -13,7 +12,7 @@ The project was completed as part of a screening assignment for Accredian.
 - Each record represents a single transaction with balance, amount, and transaction type details
 - Target variable: `isFraud` (1 = Fraud, 0 = Not Fraud)
 
-⚠️ Due to dataset size constraints, the dataset is **not included** in this repository and must be downloaded from the original source provided in the assignment.
+⚠️ Due to dataset size constraints, the dataset is **not included** in this repository.
 
 ---
 
