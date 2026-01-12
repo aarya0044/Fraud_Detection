@@ -79,14 +79,3 @@ Model performance was evaluated using:
 ## 📁 Repository Contents
 - `Fraud_Detection_Accredian.ipynb` – Complete analysis and model implementation
 - `README.md` – Project overview and methodology
-
----
-
-## 👤 Author
-**Aarya Dharmadhikari**  
-Third-Year Information Technology Student  
-
----
-
-## 📎 Notes
-This project is intended for educational and evaluation purposes only.
